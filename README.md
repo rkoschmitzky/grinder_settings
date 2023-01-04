@@ -10,6 +10,6 @@
 | [ MEXICO OAXACA COOPERATIVE CORO BIO](https://shop.kaffeeroestereibaum.de/collections/kaffee/products/kaffee-mexico-bio)        | <img src="./images/mexico_oaxaca.jpg" width="300">                         | 5.0                         |
 | [ INDIEN MALABAR MONSOONED AA/ASPINWALL ](https://shop.kaffeeroestereibaum.de/collections/kaffee/products/kaffee-indien)        | <img src="./images/indien_malabar_monsooned_aa_aspinwall.jpg" width="300"> | 2.0                         |
 | [ ESPRESSO AETHIOPIEN SIDAMO GRADE2 ](https://shop.kaffeeroestereibaum.de/collections/espresso/products/espresso-athiopien)     | <img src="./images/espresso_aethiopien_sidamo_grade2.jpg" width="300">     | 16.0                        | 
-| [ PASSENGER BLEND ](https://www.passenger-coffee.de/produkt/passenger-blend/)                                                   | <img src="./images/passenger_blend.jpg" width="300">                       | 22.0                        | 
+| [ PASSENGER BLEND ](https://www.passenger-coffee.de/produkt/passenger-blend/)                                                   | <img src="./images/passenger_blend.jpg" width="300">                       | 22.0 / 27.0 w. puck screen  | 
 
 
